@@ -3,6 +3,8 @@
 ## Career Counseling
 
 ### Evidence
+![Alt text](image-path-or-URL)
+
 
 #### Situation
 As part of my work readiness training, I recently completed a **Career Development formative assessment** designed to evaluate my understanding of career counseling principles and how they can be applied to personal and professional growth. This assessment tested my knowledge of various career development theories and strategies, and I was proud to achieve a perfect score of **100 out of 100**.
@@ -33,6 +35,7 @@ This experience has prepared me to **present myself professionally** in my digit
 ## Skills and Interests
 
 ### Evidence
+![Alt text](image-path-or-URL)
 
 #### Reflection
 
@@ -84,7 +87,6 @@ The main goals of this task were to:
 #### Action
 To engage with the assessment meaningfully, I:
 
-- Completed a well-established psychometric test, such as the **Myers-Briggs Type Indicator** or the **Big Five Personality Traits assessment**.
 - Thoroughly reviewed my results to gain insight into my natural tendencies.
 - Compared my traits with qualities often found in successful ICT professionals.
 - Analyzed how traits like being **analytical**, **introverted**, or **detail-oriented** could support my role in ICT environments.
