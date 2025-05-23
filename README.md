@@ -104,9 +104,11 @@ This process gave me a clearer picture of my personality profile and how it fits
 Including these results in my digital portfolio provides strong evidence of my **self-awareness** and readiness to contribute meaningfully to professional ICT teams.
 
 
-## CV Creation
+## Create CV 
 
 ### Evidence
+[GitHub Repository](https://github.com/wil-it2025/cv-tutorial-Rotondwa20)
+
 
 #### Situation
 As part of my work readiness training, I was assigned the task of creating a professional CV that would effectively represent my skills, education, and experience to potential employers in the **Information and Communication Technology (ICT)** field.
@@ -143,6 +145,8 @@ This task also boosted my confidence in presenting myself professionally in the 
 ## CV Submission
 
 ### Evidence
+[CV File](https://drive.google.com/file/d/1nO_Q86CeTMBQ5EasBihOhuA5VJCL-gmQ/view?usp=drivesdk)
+
 
 #### Situation
 Following the completion of my CV, I moved on to submitting the document for review. This submission was a critical step to ensure my CV met both academic standards and real-world employability expectations.
