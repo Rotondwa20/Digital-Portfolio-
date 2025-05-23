@@ -19,7 +19,6 @@ The main objectives of this task were to:
 #### Action
 To complete this assessment successfully, I:
 
-- Studied key career development theories, including **Holland’s RIASEC model** and **Super’s Life-Span Theory**, to understand how personality and life stages influence career choices.
 - Completed career interest inventories and skill assessments to gain more self-awareness.
 - Researched labor market trends specific to the **ICT field**, helping me align my goals with real-world opportunities.
 - Developed a personal career action plan that included both short-term steps and long-term aspirations.
@@ -154,21 +153,20 @@ Following the completion of my CV, I moved on to submitting the document for rev
 #### Task
 The submission required me to:
 
-- Upload the CV in the correct file format (**PDF** or **DOCX**).
 - Ensure all sections were complete and properly formatted.
 - Submit the document on or before the stated deadline to avoid penalties.
 
 #### Action
 To ensure a smooth submission process, I:
 
-- Double-checked the document to confirm it was saved in the correct file type and formatting was preserved.
+- Double checked the document to confirm it was saved in the correct file type and formatting was preserved.
 - Reviewed every section (Education, Skills, Work Experience, Certifications, Contact Details) for accuracy and professionalism.
 - Confirmed that my contact information was current and easy to read.
 - Submitted the CV well ahead of the deadline to avoid last-minute technical issues.
 - Followed all instructions carefully, including naming conventions.
 
 #### Result
-Through this process, I strengthened my understanding of professional submission protocols and the importance of meeting deadlines, both essential in job applications. I reinforced the value of submitting high-quality, error-free work on time.
+Through this process, I strengthened my understanding of professional submission protocols and the importance of meeting deadlines, both essential in job applications. I reinforced the value of submitting high quality, error-free work on time.
 
 This experience shows my ability to follow through on professional responsibilities and gives me confidence in handling future application tasks independently.
 
